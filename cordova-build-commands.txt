@@ -1,0 +1,32 @@
+1. cordova run android --device // used when you want to emulate the built app on your usb debug turned on connected device.
+2. // emulator.exe (default location: "C:\Users\user\AppData\Local\Android\Sdk\emulator")
+   emulator.exe -list-avds // for listing android virtual devices on system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
