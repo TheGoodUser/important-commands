@@ -1,0 +1,2 @@
+# add new platform to existing code
+flutter create --platforms=windows,macos,linux .
